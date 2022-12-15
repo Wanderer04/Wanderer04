@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wanderer04
+- 👋 Hi, I’m @wanderer04 / Adarsh
 - 👀 I’m interested in maths & computer science
 - 🌱 I’m currently learning how to use Github
 - 💞️ I’m looking to collaborate on small projects
